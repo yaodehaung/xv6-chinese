@@ -2,9 +2,10 @@ xv6 中文文档
 ===========
 == update 02/25/2016
 
-== 2014 版的 xv6 (rev8) 相关文档正在翻译中，详见 `rev8` 分支。
+== 2014 版的 xv6 (rev8) 相關文檔正在翻譯中。
 
-xv6 是 MIT 开发的一个教学用的完整的类 Unix 操作系统，并且在 MIT 的操作系统课程 [6.828](http://pdos.csail.mit.edu/6.828/2012/xv6.html) 中使用。通过阅读并理解 xv6 的代码，可以清楚地了解操作系统中众多核心的概念，对操作系统感兴趣的同学十分推荐一读！这份文档是中文翻译的 MIT xv6 文档，是阅读代码过程中非常好的参考资料。
+xv6 是 MIT 開發的一個教學用的完整的 Unix 操作系統，並且在 MIT 的操作系統課程 [6.828] (http://pdos.csail.mit.edu/6.828/2012/xv6.html) 中使用。  通過閱讀並理解xv6的代碼，可以清楚地了解操作系統中多核心的概念，對操作系統感興趣的同學的十分推薦讀！這分檔案是中文翻譯的 MIT xv6 文檔，是閱讀代碼過程中非常好的參考資料。
+
 
 [原文在此](http://pdos.csail.mit.edu/6.828/2012/xv6/book-rev7.pdf)
 
@@ -14,7 +15,7 @@ xv6 是 MIT 开发的一个教学用的完整的类 Unix 操作系统，并且�
 
 同时，我们的翻译文档也可以通过 [gitbook](https://www.gitbook.io/book/th0ar/xv6-chinese) 阅读
 
-## 译者
+## 翻譯者
 
 * 鲜染 北京大学 信息科学技术学院 计算机系
 * 赵天雨 北京大学 信息科学技术学院 计算机系
@@ -55,7 +56,7 @@ xv6 是 MIT 开发的一个教学用的完整的类 Unix 操作系统，并且�
 
 文档中涉及到的 xv6 源代码使用 [MIT](http://www.opensource.org/licenses/mit-license.php) 许可证。中文翻译使用 [GNU GPL V3.0](http://www.gnu.org/copyleft/gpl.html) 许可证，在 GNU GPL V3.0 之上，转载和引用须注明本项目 Github 地址。
 
---- 
+---
 
 # xv6 Documentation in Chinese
 
