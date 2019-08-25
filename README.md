@@ -11,21 +11,22 @@ xv6 是 MIT 開發的一個教學用的完整的 Unix 操作系統，並且在 M
 
 [文中引用的 xv6 源代码](http://pdos.csail.mit.edu/6.828/2012/xv6/xv6-rev7.pdf)
 
-强烈推荐 xv6 源代码同本书一同阅读！原作和翻译中遇到的括号内的数字，都是指上面链接中文件的源代码行号。
+強烈推薦 xv6 源代碼書一同閱讀!原作和翻譯中遇到的括號內的數字，都是指上面連接中文件的源碼行號。
 
-同时，我们的翻译文档也可以通过 [gitbook](https://www.gitbook.io/book/th0ar/xv6-chinese) 阅读
+
+
+
 
 ## 翻譯者
 
-* 鲜染 北京大学 信息科学技术学院 计算机系
-* 赵天雨 北京大学 信息科学技术学院 计算机系
-* 胡树伟 北京大学 信息科学技术学院 计算机系（I guess）
-* 胡文涛 KAUST CS
-* 曹扬 上海交通大学 电子信息与电气工程学院 计算机系
-* 安润功 中国人民大学
+* 鮮染 北京大學 信息科學技術學院 計算機系
+* 趙天雨 北京大學 信息科學技術學院 計算機系
+* 胡樹偉 北京大學 信息科學技術學院 計算機系（I guess）
+* 胡文濤 KAUST CS
+* 曹揚 上海交通大學 電子信息與電氣工程學院 計算機系
+* 安潤功 中國人民大學
 
-*如果你愿意贡献，你的名字也会出现在这里！*
-
+*如果你願意貢獻，你的名字也會出現在這裡！ *
 
 ## 翻译状况
 
@@ -43,19 +44,18 @@ xv6 是 MIT 開發的一個教學用的完整的 Unix 操作系統，並且在 M
 |附A |+ |+ |+ |
 |附B |+ |+ |+ |
 
-## 参与审校
+## 參與審校
 
-热情欢迎大家参与到审校工作中！请访问 https://github.com/Th0ar/xv6-chinese
+熱情歡迎大家參與到審校工作中！請訪問 https://github.com/Th0ar/xv6-chinese
 
 1. Fork
-2. 审校并修改，保证修改后 markdown 解析正确
-3. 发送 Pull Request
-4. 等待你的名字（不久后）出现在译者列表中！
+2. 審校並修改，保證修改後 markdown 解析正確
+3. 發送 Pull Request
+4. 等待你的名字（不久後）出現在譯者列表中！
 
-## 许可证（License）
+## 許可證（License）
 
-文档中涉及到的 xv6 源代码使用 [MIT](http://www.opensource.org/licenses/mit-license.php) 许可证。中文翻译使用 [GNU GPL V3.0](http://www.gnu.org/copyleft/gpl.html) 许可证，在 GNU GPL V3.0 之上，转载和引用须注明本项目 Github 地址。
-
+文檔中涉及到的 xv6 源代碼使用 [MIT](http://www.opensource.org/licenses/mit-license.php) 許可證。中文翻譯使用 [GNU GPL V3.0](http://www.gnu.org/copyleft/gpl.html) 許可證，在 GNU GPL V3.0 之上，轉載和引用須註明本項目 Github 地址。
 ---
 
 # xv6 Documentation in Chinese
